@@ -45,7 +45,7 @@ def main():
 def load_data(data_dir):
     X=[]
     Y=[]
-    for detail in range (0,2):
+    for detail in range (0,42):
 
         data_dir=os.path.join('gtsrb/'+str(detail)+'/')         #os.path.join()的用法
         for i in glob.glob(data_dir+'*.ppm',recursive=True):    #遍历文件夹，读出数据。
