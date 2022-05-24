@@ -1,2 +1,4 @@
 put the gtsrb dataset and traffic.py in the same file folder and simply run traffic.py.
 
+you can find the dataset in https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip
+
